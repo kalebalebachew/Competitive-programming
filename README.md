@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kalebalebachew/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/kalebalebachew/Leetcode/tree/master/1547-destination-city) |
 | [1580-shuffle-the-array](https://github.com/kalebalebachew/Leetcode/tree/master/1580-shuffle-the-array) |
+| [2048-build-array-from-permutation](https://github.com/kalebalebachew/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kalebalebachew/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/kalebalebachew/Leetcode/tree/master/0724-find-pivot-index) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/kalebalebachew/Leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
