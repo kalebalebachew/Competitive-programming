@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kalebalebachew/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
+| [0782-jewels-and-stones](https://github.com/kalebalebachew/Leetcode/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kalebalebachew/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/kalebalebachew/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kalebalebachew/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0782-jewels-and-stones](https://github.com/kalebalebachew/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
