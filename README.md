@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/kalebalebachew/Leetcode/tree/master/1547-destination-city) |
 | [1580-shuffle-the-array](https://github.com/kalebalebachew/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/kalebalebachew/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1656-count-good-triplets](https://github.com/kalebalebachew/Leetcode/tree/master/1656-count-good-triplets) |
 | [2048-build-array-from-permutation](https://github.com/kalebalebachew/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Two Pointers
 |  |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/kalebalebachew/Leetcode/tree/master/2048-build-array-from-permutation) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/kalebalebachew/Leetcode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
