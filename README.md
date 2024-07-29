@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kalebalebachew/Leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalebalebachew/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kalebalebachew/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/kalebalebachew/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kalebalebachew/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -44,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
