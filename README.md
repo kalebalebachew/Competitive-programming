@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/kalebalebachew/Leetcode/tree/master/1656-count-good-triplets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kalebalebachew/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/kalebalebachew/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/kalebalebachew/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/kalebalebachew/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kalebalebachew/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/kalebalebachew/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
 | ------- |
