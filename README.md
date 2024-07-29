@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/kalebalebachew/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kalebalebachew/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/kalebalebachew/Leetcode/tree/master/1547-destination-city) |
+| [1580-shuffle-the-array](https://github.com/kalebalebachew/Leetcode/tree/master/1580-shuffle-the-array) |
 ## Two Pointers
 |  |
 | ------- |
