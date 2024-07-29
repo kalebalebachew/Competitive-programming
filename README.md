@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kalebalebachew/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kalebalebachew/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalebalebachew/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/kalebalebachew/Leetcode/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,4 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kalebalebachew/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kalebalebachew/Leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/kalebalebachew/Leetcode/tree/master/0049-group-anagrams) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kalebalebachew/Leetcode/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kalebalebachew/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
