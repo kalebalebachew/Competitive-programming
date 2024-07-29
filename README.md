@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/kalebalebachew/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1547-destination-city](https://github.com/kalebalebachew/Leetcode/tree/master/1547-destination-city) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/kalebalebachew/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1547-destination-city](https://github.com/kalebalebachew/Leetcode/tree/master/1547-destination-city) |
 ## String
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kalebalebachew/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kalebalebachew/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0782-jewels-and-stones](https://github.com/kalebalebachew/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1547-destination-city](https://github.com/kalebalebachew/Leetcode/tree/master/1547-destination-city) |
 ## Dynamic Programming
 |  |
 | ------- |
