@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/kalebalebachew/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/kalebalebachew/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/kalebalebachew/Leetcode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/kalebalebachew/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kalebalebachew/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kalebalebachew/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kalebalebachew/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0782-jewels-and-stones](https://github.com/kalebalebachew/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/kalebalebachew/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/kalebalebachew/Leetcode/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/kalebalebachew/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1547-destination-city](https://github.com/kalebalebachew/Leetcode/tree/master/1547-destination-city) |
