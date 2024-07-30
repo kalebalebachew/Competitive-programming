@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kalebalebachew/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2159-two-out-of-three](https://github.com/kalebalebachew/Leetcode/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/kalebalebachew/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/kalebalebachew/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kalebalebachew/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/kalebalebachew/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kalebalebachew/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/kalebalebachew/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/kalebalebachew/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kalebalebachew/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
