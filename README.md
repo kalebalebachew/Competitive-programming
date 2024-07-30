@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/kalebalebachew/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/kalebalebachew/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/kalebalebachew/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,8 +163,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/kalebalebachew/Leetcode/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/kalebalebachew/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2507-number-of-common-factors](https://github.com/kalebalebachew/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/kalebalebachew/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/kalebalebachew/Leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
