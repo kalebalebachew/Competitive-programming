@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kalebalebachew/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/kalebalebachew/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/kalebalebachew/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2502-sort-the-people](https://github.com/kalebalebachew/Leetcode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kalebalebachew/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/kalebalebachew/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2502-sort-the-people](https://github.com/kalebalebachew/Leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/kalebalebachew/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/kalebalebachew/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/kalebalebachew/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2502-sort-the-people](https://github.com/kalebalebachew/Leetcode/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kalebalebachew/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kalebalebachew/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/kalebalebachew/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/kalebalebachew/Leetcode/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
