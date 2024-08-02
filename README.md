@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/kalebalebachew/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/kalebalebachew/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/kalebalebachew/Leetcode/tree/master/2502-sort-the-people) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/kalebalebachew/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kalebalebachew/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/kalebalebachew/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/kalebalebachew/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/kalebalebachew/Leetcode/tree/master/2502-sort-the-people) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/kalebalebachew/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kalebalebachew/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
