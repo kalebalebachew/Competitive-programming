@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/kalebalebachew/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/kalebalebachew/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/kalebalebachew/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2556-convert-the-temperature](https://github.com/kalebalebachew/Leetcode/tree/master/2556-convert-the-temperature) |
 ## Binary Search
 |  |
 | ------- |
