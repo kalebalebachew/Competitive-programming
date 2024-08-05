@@ -1,9 +1,13 @@
+import math
+
 class Solution:
     def commonFactors(self, a: int, b: int) -> int:
-        common_factors = 0
-        
-        for x in range(1, min(a, b) + 1):
-            if a % x == 0 and b % x == 0:
-                common_factors += 1
+        gcd_ab = math.gcd(a, b)
+        count = 0
+        for i in range(1, gcd_ab + 1):
+            if gcd_ab % i == 0:
+                count += 1
+            
+        return count
 
-        return common_factors
+
