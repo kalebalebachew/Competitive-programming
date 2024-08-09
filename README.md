@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/kalebalebachew/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/kalebalebachew/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalebalebachew/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kalebalebachew/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kalebalebachew/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/kalebalebachew/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/kalebalebachew/Leetcode/tree/master/0724-find-pivot-index) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kalebalebachew/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalebalebachew/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kalebalebachew/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kalebalebachew/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/kalebalebachew/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kalebalebachew/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
