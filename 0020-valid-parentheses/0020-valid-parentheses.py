@@ -4,11 +4,11 @@ class Solution:
         mapping = {')':'(', ']':'[', '}':'{'}
 
         for char in s:
-            if char in mapping:
-                top_element = stack.pop() if stack else '#'
-                if mapping[char] != top_element:
+            if char in mapping: 
+                if not stack or stack[-1] != mapping[char]:
                     return False
-            else:
+                stack.pop()
+            else: 
                 stack.append(char)
 
         return not stack
