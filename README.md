@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/kalebalebachew/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1044-find-common-characters](https://github.com/kalebalebachew/Leetcode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/kalebalebachew/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/kalebalebachew/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kalebalebachew/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kalebalebachew/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kalebalebachew/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kalebalebachew/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalebalebachew/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/kalebalebachew/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kalebalebachew/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/kalebalebachew/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/kalebalebachew/Leetcode/tree/master/2502-sort-the-people) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/kalebalebachew/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/kalebalebachew/Leetcode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/kalebalebachew/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/kalebalebachew/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kalebalebachew/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kalebalebachew/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kalebalebachew/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/kalebalebachew/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kalebalebachew/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kalebalebachew/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/kalebalebachew/Leetcode/tree/master/1635-number-of-good-pairs) |
