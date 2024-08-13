@@ -1,15 +1,19 @@
 class Solution:
     def findWords(self, words: List[str]) -> List[str]:
-        row1 = set("qwertyuiop")
-        row2 = set("asdfghjkl")
-        row3 = set("zxcvbnm")
+        dic = {}
+        for char in "qwertyuiop":
+            dic[char] = 1
+        for char in "asdfghjkl":
+            dic[char] = 2
+        for char in "zxcvbnm":
+            dic[char] = 3
         
         result = []
         
         for word in words:
-            lower_word = set(word.lower())
+            first = dic[word[0].lower()]
             
-            if lower_word.issubset(row1) or lower_word.issubset(row2) or lower_word.issubset(row3):
+            if all(dic[char.lower()] == first for char in word):
                 result.append(word)
         
         return result
