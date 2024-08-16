@@ -1,12 +1,11 @@
 class Solution:
     def checkIfPangram(self, sentence: str) -> bool:
-        s = sentence.lower()
-        k = set('abcdefghijklmnopqrstuvwxyz')
-    
-        if k.issubset(s):
+        if set('abcdefghijklmnopqrstuvwxyz').issubset(sentence.lower()):
             return True
         else:
             return False
+
+
 
 
             
