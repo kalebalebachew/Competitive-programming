@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/kalebalebachew/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/kalebalebachew/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kalebalebachew/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/kalebalebachew/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kalebalebachew/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/kalebalebachew/Leetcode/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/kalebalebachew/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/kalebalebachew/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/kalebalebachew/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kalebalebachew/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/kalebalebachew/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2128-reverse-prefix-of-word](https://github.com/kalebalebachew/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kalebalebachew/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/kalebalebachew/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/kalebalebachew/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/kalebalebachew/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/kalebalebachew/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/kalebalebachew/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kalebalebachew/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/kalebalebachew/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/kalebalebachew/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
