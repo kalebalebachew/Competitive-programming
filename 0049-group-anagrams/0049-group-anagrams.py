@@ -1,13 +1,16 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        dict = {} 
+        dict ={}
         for s in strs:
-            so ="".join(sorted(s)) 
-            if so not in dict:
-                dict[so] = [s] 
+            sth = "".join(sorted(s))
+            if sth not in dict:
+                dict[sth] = [s]
             else:
-                dict[so].append(s)
+                dict[sth].append(s)
         return dict.values()
-        
+
+
+
+     
 
         
