@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kalebalebachew/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kalebalebachew/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalebalebachew/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/kalebalebachew/Leetcode/tree/master/0389-find-the-difference) |
 | [0924-fair-candy-swap](https://github.com/kalebalebachew/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/kalebalebachew/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kalebalebachew/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kalebalebachew/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kalebalebachew/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalebalebachew/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/kalebalebachew/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalebalebachew/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kalebalebachew/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/kalebalebachew/Leetcode/tree/master/0500-keyboard-row) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kalebalebachew/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kalebalebachew/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kalebalebachew/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/kalebalebachew/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/kalebalebachew/Leetcode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/kalebalebachew/Leetcode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kalebalebachew/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kalebalebachew/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/kalebalebachew/Leetcode/tree/master/0389-find-the-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kalebalebachew/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/kalebalebachew/Leetcode/tree/master/2159-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/kalebalebachew/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
