@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kalebalebachew/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/kalebalebachew/Leetcode/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/kalebalebachew/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/kalebalebachew/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/kalebalebachew/Leetcode/tree/master/0724-find-pivot-index) |
 | [0921-spiral-matrix-iii](https://github.com/kalebalebachew/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0924-fair-candy-swap](https://github.com/kalebalebachew/Leetcode/tree/master/0924-fair-candy-swap) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalebalebachew/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/kalebalebachew/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1873-longest-nice-substring](https://github.com/kalebalebachew/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Union Find
 |  |
