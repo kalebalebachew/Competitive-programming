@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kalebalebachew/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kalebalebachew/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kalebalebachew/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/kalebalebachew/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/kalebalebachew/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kalebalebachew/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kalebalebachew/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kalebalebachew/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kalebalebachew/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kalebalebachew/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kalebalebachew/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kalebalebachew/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kalebalebachew/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kalebalebachew/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kalebalebachew/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kalebalebachew/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kalebalebachew/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/kalebalebachew/Leetcode/tree/master/0383-ransom-note) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/kalebalebachew/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
