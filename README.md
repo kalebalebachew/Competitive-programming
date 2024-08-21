@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kalebalebachew/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kalebalebachew/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalebalebachew/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/kalebalebachew/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kalebalebachew/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kalebalebachew/Leetcode/tree/master/0217-contains-duplicate) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalebalebachew/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/kalebalebachew/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/kalebalebachew/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/kalebalebachew/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kalebalebachew/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kalebalebachew/Leetcode/tree/master/0217-contains-duplicate) |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalebalebachew/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kalebalebachew/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
