@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/kalebalebachew/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kalebalebachew/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/kalebalebachew/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1873-longest-nice-substring](https://github.com/kalebalebachew/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kalebalebachew/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/kalebalebachew/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/kalebalebachew/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/kalebalebachew/Leetcode/tree/master/1547-destination-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kalebalebachew/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/kalebalebachew/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1873-longest-nice-substring](https://github.com/kalebalebachew/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/kalebalebachew/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kalebalebachew/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/kalebalebachew/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kalebalebachew/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kalebalebachew/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kalebalebachew/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1873-longest-nice-substring](https://github.com/kalebalebachew/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kalebalebachew/Leetcode/tree/master/0389-find-the-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kalebalebachew/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1873-longest-nice-substring](https://github.com/kalebalebachew/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2159-two-out-of-three](https://github.com/kalebalebachew/Leetcode/tree/master/2159-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/kalebalebachew/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Design
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalebalebachew/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1873-longest-nice-substring](https://github.com/kalebalebachew/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Union Find
 |  |
 | ------- |
