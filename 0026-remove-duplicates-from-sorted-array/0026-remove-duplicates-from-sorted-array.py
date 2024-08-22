@@ -1,26 +1,9 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        seen = set()  
-        res = 0 
-        
-        for num in nums:
-            if num not in seen:
-                seen.add(num)  
-                nums[res] = num  
-                res += 1  
-        
-        return res  
+        l = 0
+        for r in range(1, len(nums)):
+            if nums[r] != nums[l]:
+                l += 1
+                nums[l] = nums[r]
 
-
-                
-    
-
-
-
-
-    
-
-            
-
-
-        
+        return l + 1
