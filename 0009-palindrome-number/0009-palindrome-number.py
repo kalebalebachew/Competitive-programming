@@ -1,11 +1,14 @@
-class Solution(object):
-    def isPalindrome(self, x):
-        """
-        :type x: int
-        :rtype: bool
-        """
-        # Convert the integer to a string
-        str_x = str(x)
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        if x < 0:
+            return False
+        y = x
+        pal = 0
+        while y != 0:
+            r = y % 10
+            pal = pal * 10 + r
+            y = y // 10
 
-        # Check if the string is the same when read backward
-        return str_x == str_x[::-1]
+        return x == pal
+       
+        
