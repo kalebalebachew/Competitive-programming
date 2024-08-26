@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/kalebalebachew/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1319-unique-number-of-occurrences](https://github.com/kalebalebachew/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/kalebalebachew/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1370-count-number-of-nice-subarrays](https://github.com/kalebalebachew/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kalebalebachew/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kalebalebachew/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kalebalebachew/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/kalebalebachew/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/kalebalebachew/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/kalebalebachew/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1370-count-number-of-nice-subarrays](https://github.com/kalebalebachew/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kalebalebachew/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kalebalebachew/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kalebalebachew/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kalebalebachew/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/kalebalebachew/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/kalebalebachew/Leetcode/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/kalebalebachew/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/kalebalebachew/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/kalebalebachew/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/kalebalebachew/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalebalebachew/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/kalebalebachew/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1370-count-number-of-nice-subarrays](https://github.com/kalebalebachew/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1873-longest-nice-substring](https://github.com/kalebalebachew/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Union Find
 |  |
