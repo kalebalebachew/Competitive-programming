@@ -5,13 +5,11 @@ class Solution:
         odd = False
 
         for count in c.values():
-            if count % 2 == 0:
-                longest += count 
-            else:
-                longest += count - 1 
-                odd = True  
+            longest += count // 2 * 2
+            if count % 2 == 1:
+                odd = True
 
-        if odd:  
+        if odd:
             longest += 1
 
         return longest
