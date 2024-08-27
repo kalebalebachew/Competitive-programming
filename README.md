@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/kalebalebachew/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/kalebalebachew/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/kalebalebachew/Leetcode/tree/master/1044-find-common-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/kalebalebachew/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1168-duplicate-zeros](https://github.com/kalebalebachew/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1319-unique-number-of-occurrences](https://github.com/kalebalebachew/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/kalebalebachew/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kalebalebachew/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalebalebachew/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/kalebalebachew/Leetcode/tree/master/0924-fair-candy-swap) |
+| [1046-max-consecutive-ones-iii](https://github.com/kalebalebachew/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kalebalebachew/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kalebalebachew/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/kalebalebachew/Leetcode/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/kalebalebachew/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalebalebachew/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/kalebalebachew/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/kalebalebachew/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kalebalebachew/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1873-longest-nice-substring](https://github.com/kalebalebachew/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Union Find
