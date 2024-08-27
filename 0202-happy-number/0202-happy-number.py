@@ -1,17 +1,19 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-        dic = {}
-        
-        while n != 1 and n not in dic:
-            dic[n] = True
-            k = 0
+        ss = set()
+        while n != 1 and n not in ss:
+            ss.add(n)
+            next_n = 0
             while n > 0:
                 digit = n % 10
-                k += digit ** 2
+                next_n += digit ** 2
                 n //= 10
-            n = k
-        
+            n = next_n
         return n == 1
+        
+
+        
+
         
 
 
