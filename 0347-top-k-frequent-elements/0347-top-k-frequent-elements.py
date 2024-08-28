@@ -4,7 +4,7 @@ class Solution:
 
         so = sorted(c.items(), key=lambda x: -x[1])
 
-        res = [item[0] for item in so[:k]]
+        res = [i[0] for i in so[:k]]
 
         return res
        
