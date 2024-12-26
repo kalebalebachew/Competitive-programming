@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/kalebalebachew/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/kalebalebachew/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/kalebalebachew/Leetcode/tree/master/1656-count-good-triplets) |
+| [1720-crawler-log-folder](https://github.com/kalebalebachew/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kalebalebachew/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/kalebalebachew/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/kalebalebachew/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/kalebalebachew/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/kalebalebachew/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1547-destination-city](https://github.com/kalebalebachew/Leetcode/tree/master/1547-destination-city) |
+| [1720-crawler-log-folder](https://github.com/kalebalebachew/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kalebalebachew/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/kalebalebachew/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1873-longest-nice-substring](https://github.com/kalebalebachew/Leetcode/tree/master/1873-longest-nice-substring) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kalebalebachew/Leetcode/tree/master/0020-valid-parentheses) |
+| [1720-crawler-log-folder](https://github.com/kalebalebachew/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Backtracking
 |  |
 | ------- |
