@@ -1,24 +1,28 @@
+from typing import List
+
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
-        temp = []
-        l1 = 0
-        l2 = 0
+        """
+        Do not return anything, modify nums1 in-place instead.
+        """
+        res = []
+        l = 0
+        r = 0
         
-        while l1 < m and l2 < n:
-            if nums1[l1] < nums2[l2]:
-                temp.append(nums1[l1])
-                l1 += 1
+        while l < m and r < n:
+            if nums1[l] < nums2[r]:
+                res.append(nums1[l])
+                l += 1
             else:
-                temp.append(nums2[l2])
-                l2 += 1
+                res.append(nums2[r])
+                r += 1
         
-        while l1 < m:
-            temp.append(nums1[l1])
-            l1 += 1
+        while l < m:
+            res.append(nums1[l])
+            l += 1
         
-        while l2 < n:
-            temp.append(nums2[l2])
-            l2 += 1
-        
-        for i in range(len(temp)):
-            nums1[i] = temp[i]
+        while r < n:
+            res.append(nums2[r])
+            r += 1
+        for i in range(m + n):
+            nums1[i] = res[i]
